@@ -13,5 +13,4 @@
       systemd:
         name: tomcat
         state: restarted
-        
-save and exit
+
